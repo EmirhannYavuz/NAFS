@@ -1,0 +1,5 @@
+C# ilk olarak 2000 yılında .NET Framework ile birlikte tanıtılan, Microsoft tarafından geliştirişmiş 
+modern bir programlama dilidir. En önemli özellikleri olarak nesne yönelimli, tip güvenli, bağımsız platformlu
+ve zengin kütüphanelere sahip olması gösterilebilir. C# birçok farklı yazılım alanında kullanılmaktadır, bunlara
+örnek olarak web geliştirme, oyun geliştirme, mobil uygulama geliştirme alanları gösterilebilir. Günümüzde birçok
+sektörde artık C# programlama dili kullanılmaktadır.

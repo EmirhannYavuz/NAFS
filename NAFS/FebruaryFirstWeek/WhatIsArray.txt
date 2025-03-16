@@ -1,0 +1,5 @@
+Diziler, aynı türdeki öğelerin sıralı bir koleksiyonudur. Tek bir değişken altında birden çok değer 
+saklamak için kullanılır.
+
+Bu duruma örnek olarak, bir öğretmenin tüm öğrencilerinin sınav notlarını saklamak için bir dizi
+kullanması gösterilebilir.

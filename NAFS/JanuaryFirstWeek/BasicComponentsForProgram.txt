@@ -1,0 +1,21 @@
+Bir programın çalışabilmesi için bir dizi temel bileşene ihtiyaç duyulur. Bu bileşenlerin başlıcaları şunlardır:
+1. Derleyici (Compiler)
+    Basit olarak, derleyici, yazılan kaynak kodu (source code) dosyalarını makine diline çeviren bir programdır. 
+    Derleyici, yazılan kodun doğru ve çalışabilir olmasını sağlar.
+2. İşlemci (CPU - Central Processing Unit)
+    İşlemci, bilgisayarın beyni olarak düşünülebilir. Bilgisayarın tüm işlemlerini gerçekleştiren birimdir.
+    CPU temel mantık ve kontrol işlemlerini gerçekleştirir.
+3. Bellek (RAM - Random Access Memory)
+    Bilgisayarın geçici hafızasıdır. Programın verileri burada geçici olarak saklanır, işlemciye hızlı erişim sağlar.
+    Bu veriler bilgisayar çalıştığı sürece erişebilir olur.
+4. Sabit Disk veya SSD (Hard Disk / SSD)
+    Bilgisayarın RAM'in aksine kalıcı hafızasıdır. Programlar, dosyalar ve işletim sistemi burada saklanır.
+    Sabit disk veya SSD, kullanıcı silmediği sürece bilgisayarda verileri saklar.
+5. Ekran Kartı (GPU - Graphics Processing Unit)
+    Bilgisayarda grafik oluşturmakla görevli olan özel bir işlemci birimidir. 
+6. İşletim Sistemi (Operating System - OS)
+    Bilgisayarın donanımı ve yazılımı arasında bir köprü görevi görür. 
+    İşletim sistemi, bilgisayarın tüm donanım ve yazılım kaynaklarını yönetir.
+7. Ağ Bağlantıları (Network)
+    Bilgisayarın internete veya diğer bilgisayarlara bağlanmasını sağlar.
+    Ağ bağlantıları, bilgisayarın diğer cihazlarla iletişim kurmasını sağlar.

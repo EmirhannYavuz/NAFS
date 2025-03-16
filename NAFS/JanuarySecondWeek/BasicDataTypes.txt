@@ -1,0 +1,15 @@
+int: Tam sayılar için kullanılır. (32-bit bir tam sayı tipi olup, -2,147,483,648 ile 2,147,483,647 arasındaki değerleri tutabilir.)
+byte: int'e benzer fakat daha az bellek kullanır. (-128 ile 127 arasında tam sayılar için kullanılır.)
+short: int'e benzer fakat daha az bellek kullanır. (-32,768 ile 32,767 arasında tam sayılar için kullanılır.)
+long: int'e benzer fakat daha büyük sayılar için kullanılır. Long'un sonuna 'l' eklenir. (-9,223,372,036,854,775,808 ile 9,223,372,036,854,775,807 arasında değer alır.)
+double: Ondalıklı sayılar için kullanılır.
+float: Double'a benzer fakat daha az bellek kullanır. Float'ın sonuna 'f' eklenir.
+decimal: Double ve float'tan daha fazla ondalıklı hassas sayılar için kullanılır.
+char: Tekil karakterler için kullanılır.
+boolean: True ya da False değerlerini alır.
+string: Metinsel ifadeler için kullanılır.
+
+int, double ve string değer tiplerinin bellek kullanımlarını kıyaslayalım:
+int: 4 byte
+double: 8 byte
+string: 2 byte * karakter sayısı

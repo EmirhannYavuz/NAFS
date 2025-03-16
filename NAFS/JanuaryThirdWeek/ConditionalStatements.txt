@@ -1,0 +1,4 @@
+Koşullu ifadeler bir programın akışını kontrol etmek için kullanılır. Bir koşul sağlandığında belirli bir kod 
+bloğunu çalıştırmak için if, else yapısı kullanılır. Örnek olarak, bir web sitesine kaydolurken kullanıcının 
+16 yaşından büyük olup olmadığını kontrol etmek için bir if, else yapısı kullanılabilir. 
+Eğer kullanıcı 16 yaşından büyükse belirli bir kod bloğu eğer değilse farklı bir kod bloğu çalıştırılabilir.

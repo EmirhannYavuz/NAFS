@@ -1,0 +1,2 @@
+Döngüler, bir programda belirli bir kod bloğunu belirli bir koşul sağlandığı sürece tekrar tekrar 
+çalıştırmak için kullanılır. C# dilinde en yaygın kullanılan döngüler for ve while döngüleridir.
